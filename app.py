@@ -1,6 +1,7 @@
 import mysql.connector
 import json
 from flask import Flask
+#Maybe it works now
 
 app = Flask(__name__)
 
